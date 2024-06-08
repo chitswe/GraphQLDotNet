@@ -1,0 +1,12 @@
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/bin/Debug/net8.0/data.deps.json
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/bin/Debug/net8.0/data.dll
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/bin/Debug/net8.0/data.pdb
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.AssemblyInfoInputs.cache
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.AssemblyInfo.cs
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.csproj.CoreCompileInputs.cache
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.dll
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/refint/data.dll
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.pdb
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/ref/data.dll
+/Users/chitswe/www/dotnet/GraphQLDotNet/Data/obj/Debug/net8.0/data.csproj.AssemblyReference.cache

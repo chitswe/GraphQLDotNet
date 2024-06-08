@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkjqH2ZmQWxXH10v1IK2M7SufzDu8O3dYTssdNDs5xxxfElZX7s7MryBCQ1mWoSEGVMTcaMC+P4T0L/0uX0vBQ==",
+  "success": true,
+  "projectFilePath": "/Users/chitswe/www/dotnet/GraphQLDotNet/Data/data.csproj",
+  "expectedPackageFiles": [
+    "/Users/chitswe/.nuget/packages/graphql/7.8.0/graphql.7.8.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/graphql-parser/8.4.2/graphql-parser.8.4.2.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/graphql.analyzers/7.8.0/graphql.analyzers.7.8.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/graphql.dataloader/7.8.0/graphql.dataloader.7.8.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/chitswe/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
